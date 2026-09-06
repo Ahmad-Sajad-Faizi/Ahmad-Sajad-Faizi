@@ -61,11 +61,4 @@ I currently document real-world lab projects as part of my journey through the *
 
 ---
 
-### GitHub Stats
-
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Sajad-Faizi&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Sajad-Faizi&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 *Always building, always learning.*
