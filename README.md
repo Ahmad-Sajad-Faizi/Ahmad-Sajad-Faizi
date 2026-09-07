@@ -40,7 +40,7 @@ I currently document real-world lab projects as part of my journey through the *
 |---------|-------------|------|
 | **[My-IT-Portfolio](https://github.com/Ahmad-Sajad-Faizi/My-IT-Portfolio)** | Documented hands-on labs covering Microsoft 365 & Azure AD, Windows Server + Active Directory, ITSM with Jira, Networking (pfSense), and PowerShell/Bash scripting. All projects run in a self-hosted Proxmox lab. | M365, Azure AD, AD DS, pfSense, PowerShell |
 | **[FOG Deployment Server](https://github.com/Ahmad-Sajad-Faizi/CVO_Encora_End_Projects)** | Complete imaging & deployment infrastructure built from bare metal. Includes network segmentation, golden images for Windows 11 & Ubuntu 24.04, multicast imaging, HTTPS with Let's Encrypt, and automated software deployment via FOG snap-ins. | FOG Project, Proxmox, Ubuntu Server, Windows 11, EdgeRouter |
-| **[42 Belgium – Piscine](https://github.com/Ahmad-Sajad-Faizi/42-Belgium)** | Full set of exercises from the 42 Antwerp Piscine (c00–c13, shell00/01, rushes, BSQ). Written in pure C and Shell under the 42 Norm. | C, Shell, Make |
+| **[42 Belgium – Piscine](https://github.com/Ahmad-Sajad-Faizi/42-Belgium)** | Full set of exercises from the 42 Antwerp Piscine (c00–c13, shell00/01, rushes, BSQ). Written in pure C. | C, Shell, Make |
 
 ---
 
